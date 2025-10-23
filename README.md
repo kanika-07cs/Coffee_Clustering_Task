@@ -20,7 +20,9 @@ This project analyzes a global coffee and health dataset to identify clusters of
 - Silhouette scores indicated moderate clustering, reflecting overlapping lifestyle patterns.  
 
 ## Visualization
-- PCA 2D scatter plots to visualize cluster separation and centroids.  
+- PCA 2D scatter plots to visualize cluster separation and centroids.
+<img width="415" height="415" alt="image" src="https://github.com/user-attachments/assets/f7c6eb51-2933-4ac1-9624-6902c5d7e8e3" />
+
 - DBSCAN k-distance graphs used to select optimal eps parameter.  
 
 ## Conclusion

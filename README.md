@@ -21,7 +21,8 @@ This project analyzes a global coffee and health dataset to identify clusters of
 
 ## Visualization
 - PCA 2D scatter plots to visualize cluster separation and centroids.
-<img width="415" height="415" alt="image" src="https://github.com/user-attachments/assets/f7c6eb51-2933-4ac1-9624-6902c5d7e8e3" />
+<img width="415" height="415" alt="image" src="https://github.com/user-attachments/assets/4e6bfae9-6ce7-4f0c-b272-98f7f95c92a3" />
+
 
 - DBSCAN k-distance graphs used to select optimal eps parameter.  
 

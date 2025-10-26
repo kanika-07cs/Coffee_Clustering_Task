@@ -3,6 +3,7 @@
 ## Project Overview
 This project analyzes a global coffee and health dataset to identify clusters of people with similar lifestyle patterns using clustering techniques like **K-Means** and **DBSCAN**.
 
+**Streamlit Link**: https://coffeeclusteringtask-teezsbobqismsaar9splh7.streamlit.app/
 ## Dataset
 - Source: https://www.kaggle.com/datasets/uom190346a/global-coffee-health-dataset/data
 - Features include: `Age`, `Gender`, `Country`, `Coffee_Intake`, `Caffeine_mg`, `Sleep_Hours`, `Sleep_Quality`, `BMI`, `Heart_Rate`, `Stress_Level`, `Physical_Activity_Hours`, `Health_Issues`, `Occupation`, `Smoking`, `Alcohol_Consumption`.
@@ -21,9 +22,7 @@ This project analyzes a global coffee and health dataset to identify clusters of
 
 ## Visualization
 - PCA 2D scatter plots to visualize cluster separation and centroids.
-<img width="415" height="415" alt="image" src="https://github.com/user-attachments/assets/4e6bfae9-6ce7-4f0c-b272-98f7f95c92a3" />
-
-
+<img width="415" height="415" alt="image" src="https://github.com/user-attachments/assets/3bba07b8-d4c7-41ce-81b9-6fa274d2029b" />
 - DBSCAN k-distance graphs used to select optimal eps parameter.  
 
 ## Conclusion
